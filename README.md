@@ -1,0 +1,2 @@
+# AppMemoryResearch
+Android Memory Research 
